@@ -27,7 +27,6 @@
 
   <ItemGroup>
     <Folder Include="Controller\Admin\" />
-    <Folder Include="Controller\API\" />
   </ItemGroup>
 
 </Project>
